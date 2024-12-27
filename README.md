@@ -1,4 +1,4 @@
-<img width="542" alt="image" src="https://github.com/user-attachments/assets/dab3eba8-3725-429c-88d8-d0e036fb769f" /># Health and Lifestyle Insights Analysis
+# Health and Lifestyle Insights Analysis
 
 ## Overview
 This project focuses on analyzing survey data related to health and lifestyle habits. Using tools like Power BI and Python, we explore trends in sleep quality, diet, exercise, and overall energy levels across different demographics.
