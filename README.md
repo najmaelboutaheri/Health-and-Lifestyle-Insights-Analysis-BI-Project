@@ -126,5 +126,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 These insights suggest strong links between lifestyle choices (diet, exercise, and sleep) and overall well-being, providing valuable directions for health improvement strategies.
 Explore more insights in the Power BI dashboard!
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Contact
+For further information or questions, feel free to reach out:
+- **Email**: najmaelboutaheri@gmail.com
+
