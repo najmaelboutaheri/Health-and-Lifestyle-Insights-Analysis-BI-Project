@@ -63,11 +63,11 @@ The project was devided into 4 pages:
 
 ### 2. **Health Insights**
    - **Sleep Quality**:
-     - 57.89% of respondents reported "Somewhat restful" sleep.
-     - Engineers exhibited higher instances of "Not restful" sleep.
+      -57.89% of respondents reported "Somewhat restful" sleep.
+      -Engineers exhibited higher instances of "Not restful" sleep.
    - **Energy Levels**:
-     - Moderate energy levels were most common (53%).
-     - Higher energy levels correlated with consistent exercise patterns.
+      -Moderate energy levels were most common (53%).
+      -Higher energy levels correlated with consistent exercise patterns.
 
 ### 3. **Exercise Habits**
    - Cardio was the most popular exercise type (27%).
