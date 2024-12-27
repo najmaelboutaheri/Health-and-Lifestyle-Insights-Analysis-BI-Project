@@ -33,7 +33,7 @@ Data was collected using **Google Forms**, and the responses were uploaded to **
 4. **Data combination**: Combine all the forms sheets by adding an other column 'City' that indicates the location of each Respondents.
 5. **Data modeling**: Use Star schema with the creation of fact table and dimension tables to simplify analysis.
    
-  <img width="542" alt="image" src="https://github.com/user-attachments/assets/3dbb8d95-f4f4-47aa-9045-5e4bcc2da241" />
+   <img width="542" alt="image" src="https://github.com/user-attachments/assets/3dbb8d95-f4f4-47aa-9045-5e4bcc2da241" />
 
 6. **Power BI Dashboards**: Developed interactive dashboards for in-depth insights.
    
