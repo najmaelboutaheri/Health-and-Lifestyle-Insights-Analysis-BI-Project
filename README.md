@@ -91,7 +91,7 @@ The project was devided into 4 pages:
    ```bash
    git clone https://github.com/your-username/health-lifestyle-analysis.git
    ```
-2. Install power bi desktop from: [Power Bi Desktop](#https://r.search.yahoo.com/_ylt=AwrkELXt1W5n8gEAnZAk24lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1736526573/RO=10/RU=https%3a%2f%2fwww.microsoft.com%2ffr-fr%2fdownload%2fdetails.aspx%3fid%3d58494/RK=2/RS=7J4VnoGx_Sb501Y.VgXIkAqJxCs-)
+2. Install power bi desktop from: [Power Bi Desktop](https://r.search.yahoo.com/_ylt=AwrkELXt1W5n8gEAnZAk24lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1736526573/RO=10/RU=https%3a%2f%2fwww.microsoft.com%2ffr-fr%2fdownload%2fdetails.aspx%3fid%3d58494/RK=2/RS=7J4VnoGx_Sb501Y.VgXIkAqJxCs-)
 
 3. Open the Power BI report ```'Health_Lifestyle_Analysis.pbix'``` for interactive exploration. Ensure the linked Google Sheet is active for real-time updates.
 ## Contributing
