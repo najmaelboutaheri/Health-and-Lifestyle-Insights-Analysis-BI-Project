@@ -1,4 +1,4 @@
-# Health and Lifestyle Insights Analysis
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/dab3eba8-3725-429c-88d8-d0e036fb769f" /># Health and Lifestyle Insights Analysis
 
 ## Overview
 This project focuses on analyzing survey data related to health and lifestyle habits. Using tools like Power BI and Python, we explore trends in sleep quality, diet, exercise, and overall energy levels across different demographics.
@@ -31,7 +31,11 @@ Data was collected using **Google Forms**, and the responses were uploaded to **
 2. **Real-Time Integration**: Connected Google Sheets to Power BI using Direct Query mode for real-time updates.
 3. **Data Cleaning**: Ensured accurate and consistent data by handling missing and inconsistent entries.
 4. **Data combination**: Combine all the forms sheets by adding an other column 'City' that indicates the location of each Respondents.
-5. **Power BI Dashboards**: Developed interactive dashboards for in-depth insights.
+5. **Data modeling**: Use Star schema with the creation of fact table and dimension tables to simplify analysis.
+   
+  <img width="542" alt="image" src="https://github.com/user-attachments/assets/3dbb8d95-f4f4-47aa-9045-5e4bcc2da241" />
+
+6. **Power BI Dashboards**: Developed interactive dashboards for in-depth insights.
    
 ## Reports pages:
 The project was devided into 4 pages:
