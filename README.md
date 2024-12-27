@@ -41,7 +41,7 @@ The project was devided into 4 pages:
 
 - Exercise Habits analysis
   
- <img width="574" alt="image" src="https://github.com/user-attachments/assets/4b989040-c1d9-4db1-a051-f9732bb9dd15" />
+  <img width="574" alt="image" src="https://github.com/user-attachments/assets/4b989040-c1d9-4db1-a051-f9732bb9dd15" />
 
 - Sleep analysis
   
@@ -53,8 +53,7 @@ The project was devided into 4 pages:
 
 - Health and Mood Analysis
   
-  ![image](https://github.com/user-attachments/assets/447a80d9-de51-466c-82b5-8b5a0d149a5a)
-
+  <img width="577" alt="image" src="https://github.com/user-attachments/assets/e268f362-2978-45bf-b1c5-58664a3b2d40" />
   
 ## Key Findings
 ### 1. **Demographics**
